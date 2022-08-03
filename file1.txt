@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file one alien1. haha
+=======
+this is file one, new
+>>>>>>> next-alien-plot
